@@ -1,10 +1,10 @@
 
 <h1>Hello there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Alex</h1>
---
+
 <em><h3>A student from Italy 🇮🇹 in München 🇩🇪 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3></em>
 
 
-[![Linkedin: Alex Perathoner](https://img.shields.io/badge/-alex perathoner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-perathoner-5ba5b5173/)](https://www.linkedin.com/in/alexander-perathoner-5ba5b5173/)
+[![](https://img.shields.io/badge/-alexperathoner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-perathoner-5ba5b5173/)](https://www.linkedin.com/in/alexander-perathoner-5ba5b5173)
 ![](https://komarev.com/ghpvc/?username=alexperathoner&label=Visitors)
 ![GitHub followers](https://img.shields.io/github/followers/alexperathoner?label=Follow&style=social)
 
