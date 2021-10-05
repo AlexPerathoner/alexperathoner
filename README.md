@@ -10,7 +10,8 @@
 
 
 
-<img align="right" src="http://pa1.narvii.com/6593/62e2a11c5bf52a5bf207cc120d8a4d34c63b8345_00.gif" width=320>
+<img align="right" src="http://pa1.narvii.com/6593/62e2a11c5bf52a5bf207cc120d8a4d34c63b8345_00.gif" width=50%>
+
 
 ## ⚡️ A few quick facts
 
