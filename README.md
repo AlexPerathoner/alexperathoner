@@ -17,7 +17,7 @@
 
 - 👨‍🎓 &nbsp;I’m currently studying at <img src=https://cdn.freelogovectors.net/wp-content/uploads/2019/02/tum-logo.png height=12>
 - 🌱 &nbsp;I’m learning Angular
-- 📫 &nbsp;Reach me at **alex.perathoner@gmail.com**, <a href="https://www.linkedin.com/in/alexander-perathoner-5ba5b5173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-perathoner-5ba5b5173" height="12"/></a> or 
+- 📫 &nbsp;Reach me at **alex.perathoner@gmail.com**, <a href="https://www.linkedin.com/in/alexander-perathoner-5ba5b5173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-perathoner-5ba5b5173" height="12"/></a>, <a href="https://twitter.com/AlexPera0" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/it/archive/0/09/20160903181541%21Twitter_bird_logo.png" height="12" /></a> or 
 <a href="https://instagram.com/alexperapera" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="12" /></a>
 - 👨‍💻 &nbsp;Check out my projects: [<img src=https://github.com/AlexPerathoner/SlimHUD/raw/master/Screens/Icon1024.png height=12>SlimHUD](https://alexperathoner.github.io/SlimHUD/), [<img src=https://raw.githubusercontent.com/AlexPerathoner/Sessions/master/Sessions/Assets.xcassets/AppIcon.appiconset/512-1.png height=12> Session](https://github.com/AlexPerathoner/Sessions)
 - 🎉 &nbsp;Fun fact: I ❤️ the Alps ⛰️
