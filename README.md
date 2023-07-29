@@ -30,7 +30,7 @@
 
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=AlexPerathoner&count_private=true&show_icons=true&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=555&include_all_commits=true)
 
-This week I spent my time on:<br>
+This year I spent my time on:<br>
 ![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexPera&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=666)
 
 ![](https://hit.yhype.me/github/profile?user_id=31958579)
