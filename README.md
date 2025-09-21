@@ -1,7 +1,7 @@
 
 <h1>Hello there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Alex</h1>
 
-<em><h3>A student from Italy 🇮🇹 in München 🇩🇪 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3></em>
+<em><h3>A student from Italy 🇮🇹 in Berlin 🇩🇪 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3></em>
 
 
 [![](https://img.shields.io/badge/-alexperathoner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-perathoner-5ba5b5173/)](https://www.linkedin.com/in/alexander-perathoner-5ba5b5173)
@@ -16,7 +16,7 @@
 <h3> ⚡️ A few quick facts</h3>
 
 - 👨‍🎓 &nbsp;I studied for some time at <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_the_Technical_University_of_Munich.svg/1200px-Logo_of_the_Technical_University_of_Munich.svg.png   height=12>
-- 🌱 &nbsp;I’m learning React & IT Administration
+- 🌱 &nbsp;I’m learning Angular & Infra
 - 📫 &nbsp;Reach me at **<a href="mailto:dev@alexpera.com">dev@alexpera.com</a>**,  <a href="https://www.linkedin.com/in/alexander-perathoner-5ba5b5173/" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-perathoner-5ba5b5173" height="12" style="vertical-align: middle;" /></a>, <a href="https://twitter.com/AlexPera0" target="blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/120px-X_logo_2023.svg.png" height="12" style="vertical-align: middle;" /></a>
 - 🚴‍♂️&nbsp;Biking through Europe: <a href="https://instagram.com/alexperapera" target="blank"> 
   <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="12" style="vertical-align: middle;" />
